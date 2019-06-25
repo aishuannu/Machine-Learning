@@ -1,0 +1,73 @@
+Time taken is  3.2250392169808038
+
+
+Used minimum support provided by the user is 0.7 and corrosponding min freq is 1050.0
+
+
+Frequent words of length 3 are 
+
+
+           word 1       word 2        word 3  Freq
+0             set       system      abstract  1207
+1             set       system      function  1139
+2             set       system  introduction  1077
+3             set       system       network  1085
+4             set       system        neural  1148
+5             set       system        number  1085
+6             set       system    references  1180
+7             set       system        result  1162
+8             set     abstract      function  1238
+9             set     abstract   information  1088
+10            set     abstract         input  1087
+11            set     abstract  introduction  1178
+12            set     abstract      learning  1063
+13            set     abstract         model  1128
+14            set     abstract       network  1161
+15            set     abstract        neural  1223
+16            set     abstract        number  1180
+17            set     abstract       problem  1111
+18            set     abstract    references  1287
+19            set     abstract        result  1265
+20            set     function  introduction  1105
+21            set     function         model  1077
+22            set     function       network  1105
+23            set     function        neural  1163
+24            set     function        number  1116
+25            set     function       problem  1058
+26            set     function    references  1213
+27            set     function        result  1194
+28            set  information    references  1067
+29            set        input    references  1063
+..            ...          ...           ...   ...
+185  introduction      network        neural  1108
+186  introduction      network    references  1105
+187  introduction      network        result  1102
+188  introduction       neural        number  1053
+189  introduction       neural    references  1161
+190  introduction       neural        result  1146
+191  introduction       number    references  1103
+192  introduction       number        result  1089
+193  introduction   references        result  1200
+194      learning   references        result  1061
+195         model      network        neural  1065
+196         model      network    references  1064
+197         model      network        result  1060
+198         model       neural    references  1117
+199         model       neural        result  1101
+200         model       number    references  1057
+201         model   references        result  1157
+202       network       neural        number  1093
+203       network       neural    references  1206
+204       network       neural        result  1202
+205       network       number    references  1092
+206       network       number        result  1090
+207       network   references        result  1203
+208        neural       number    references  1150
+209        neural       number        result  1136
+210        neural      problem    references  1076
+211        neural      problem        result  1056
+212        neural   references        result  1251
+213        number   references        result  1194
+214       problem   references        result  1110
+
+[215 rows x 4 columns]

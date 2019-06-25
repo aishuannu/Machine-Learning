@@ -1,0 +1,13 @@
+Time taken is  149.4058924060082
+
+
+Used minimum support provided by the user is 0.06 and corrosponding min freq is 2391.66
+
+
+Frequent words of length 2 are 
+
+
+   word 1  word 2  Freq
+0  market   power  2545
+1  market  energy  2481
+2   power  energy  2536

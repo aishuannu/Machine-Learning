@@ -1,0 +1,73 @@
+Time taken is  11.844965925993165
+
+
+Used minimum support provided by the user is 0.1 and corrosponding min freq is 343.0
+
+
+Frequent words of length 4 are 
+
+
+           word 1       word 2       word 3   word 4  Freq
+0     advertising   democratic    democrats    media   344
+1     advertising   democratic    democrats     bush   349
+2     advertising   democratic      general    media   343
+3     advertising   democratic      general     bush   347
+4     advertising   democratic        house     bush   343
+5     advertising   democratic        media  primary   343
+6     advertising   democratic        media     bush   346
+7     advertising   democratic  republicans     bush   344
+8     advertising    democrats      general     bush   346
+9     advertising    democrats        media     bush   346
+10    advertising    democrats  republicans     bush   343
+11    advertising      general        kerry     bush   343
+12    advertising      general        media     bush   344
+13    advertising      general         poll     bush   345
+14         create   democratic    democrats     bush   347
+15         create   democratic  republicans     bush   345
+16         create   democratic          war     bush   346
+17         create    democrats        house     bush   343
+18         create    democrats  republicans     bush   346
+19         create    democrats          war     bush   346
+20         create      general        house      war   343
+21         create      general        house     bush   346
+22         create      general        media     bush   344
+23         create      general  republicans     bush   344
+24         create      general          war     bush   350
+25         create        house  republicans     bush   343
+26         create        house          war     bush   349
+27         create  republicans          war     bush   344
+28            dem   democratic    democrats  general   351
+29            dem   democratic    democrats    house   354
+...           ...          ...          ...      ...   ...
+1434         poll      primary       senate     bush   355
+1435         poll      primary          war     bush   353
+1436         poll        races  republicans   senate   343
+1437         poll        races  republicans     bush   347
+1438         poll        races       senate     bush   351
+1439         poll  republicans       senate      war   346
+1440         poll  republicans       senate     bush   366
+1441         poll  republicans        voter     bush   353
+1442         poll  republicans          war     bush   374
+1443         poll       senate          war     bush   361
+1444        polls        races       senate     bush   343
+1445        polls  republicans       senate      war   343
+1446        polls  republicans       senate     bush   349
+1447        polls  republicans        voter     bush   347
+1448        polls  republicans          war     bush   362
+1449        polls       senate          war     bush   348
+1450      primary        races  republicans   senate   344
+1451      primary        races  republicans     bush   349
+1452      primary        races       senate     bush   344
+1453      primary  republicans       senate     bush   364
+1454      primary  republicans          war     bush   352
+1455      primary       senate          war     bush   347
+1456        races  republicans       senate     bush   351
+1457        races  republicans          war     bush   345
+1458        races       senate          war     bush   346
+1459  republicans       senate        voted     bush   344
+1460  republicans       senate        voter     bush   343
+1461  republicans       senate          war     bush   375
+1462  republicans        voted          war     bush   348
+1463  republicans        voter          war     bush   344
+
+[1464 rows x 5 columns]

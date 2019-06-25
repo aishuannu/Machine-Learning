@@ -1,0 +1,159 @@
+						 Details of the dataset
+Number of data used for training :: 5315
+Number of data used for testing :: 2279
+Number of different model used :: 5
+
+
+							 MODEL 1
+	 Structutre of the Network 1 
+
+
+Number of layers in the model :: 3
+No. of nodes in layer 1 :: 50
+Activation function of layer 1 :: relu
+No. of nodes in layer 2 :: 50
+Activation function of layer 2 :: relu
+No. of nodes in output layer :: 4
+Activation function of output layer :: sigmoid
+
+
+	 Details of the model no 1
+
+
+batch_size :: 50
+epochs :: 10
+Cost function used :: binary_crossentropy
+Optimizer used :: RMSprop
+
+
+	 Evaluation 
+
+
+Ten fold cross validation of model 1 is :  [92.9, 93.14, 92.76, 93.66, 94.17, 92.14, 93.93, 93.22, 92.37, 92.89]
+Accuracy is :  0.9305616498464239
+Precision is :  0.9313893653516295
+F1 score is :  0.9354005167958657
+
+
+							 MODEL 2
+	 Structutre of the Network 2 
+
+
+Number of layers in the model :: 2
+No. of nodes in layer 1 :: 40
+Activation function of layer 1 :: relu
+No. of nodes in output layer :: 4
+Activation function of output layer :: softmax
+
+
+	 Details of the model no 0
+
+
+batch_size :: 50
+epochs :: 10
+Cost function used :: binary_crossentropy
+Optimizer used :: RMSprop
+
+
+	 Evaluation 
+
+
+Ten fold cross validation of model 0 is :  [93.28, 93.98, 93.66, 94.08, 94.41, 93.31, 93.97, 93.93, 93.08, 93.46]
+Accuracy is :  0.9393374287491045
+Precision is :  0.9483648881239243
+F1 score is :  0.9508196721311475
+
+
+							 MODEL 3
+	 Structutre of the Network 3 
+
+
+Number of layers in the model :: 3
+No. of nodes in layer 1 :: 50
+Activation function of layer 1 :: relu
+No. of nodes in layer 2 :: 50
+Activation function of layer 2 :: relu
+No. of nodes in output layer :: 4
+Activation function of output layer :: softmax
+
+
+	 Details of the model no 1
+
+
+batch_size :: 100
+epochs :: 8
+Cost function used :: mean_squared_error
+Optimizer used :: RMSprop
+
+
+	 Evaluation 
+
+
+Ten fold cross validation of model 1 is :  [85.15, 85.15, 84.59, 86.65, 87.22, 84.93, 86.82, 85.31, 83.8, 85.31]
+Accuracy is :  0.8617814831327796
+Precision is :  0.9366438356164384
+F1 score is :  0.9414802065404474
+
+
+							 MODEL 4
+	 Structutre of the Network 4 
+
+
+Number of layers in the model :: 3
+No. of nodes in layer 1 :: 50
+Activation function of layer 1 :: exponential
+No. of nodes in layer 2 :: 50
+Activation function of layer 2 :: exponential
+No. of nodes in output layer :: 4
+Activation function of output layer :: softmax
+
+
+	 Details of the model no 1
+
+
+batch_size :: 50
+epochs :: 10
+Cost function used :: mean_squared_error
+Optimizer used :: Adagrad
+
+
+	 Evaluation 
+
+
+Ten fold cross validation of model 1 is :  [84.4, 62.41, 85.34, 86.09, 88.16, 83.43, 87.19, 70.43, 83.43, 84.18]
+Accuracy is :  0.860026327362705
+Precision is :  0.9344827586206896
+F1 score is :  0.9360967184801381
+
+
+							 MODEL 5
+	 Structutre of the Network 5 
+
+
+Number of layers in the model :: 3
+No. of nodes in layer 1 :: 50
+Activation function of layer 1 :: selu
+No. of nodes in layer 2 :: 50
+Activation function of layer 2 :: selu
+No. of nodes in output layer :: 4
+Activation function of output layer :: sigmoid
+
+
+	 Details of the model no 1
+
+
+batch_size :: 50
+epochs :: 8
+Cost function used :: binary_crossentropy
+Optimizer used :: Adagrad
+
+
+	 Evaluation 
+
+
+Ten fold cross validation of model 1 is :  [80.83, 83.46, 81.86, 80.45, 80.73, 80.84, 81.45, 80.41, 80.84, 82.34]
+Accuracy is :  0.8313953488633632
+Precision is :  0.9095394736842105
+F1 score is :  0.9325463743676222
+
+
